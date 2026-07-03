@@ -1,2 +1,0 @@
-Id. de problema,Descripción,Estado,Gravedad,Puntos de la historia,Ruta de acceso del proyecto,Tipo de ubicación,Ruta de acceso,Línea,Columna,Id. de incidente,Vínculo de ayuda,Nombre del ensamblado,Versión de ensamblado,Clave pública de ensamblado,Fragmento
-Project.0002,Es necesario cambiar el marco de destino del proyecto,Active,Mandatory,1,ReduceSvgFile.csproj,File,ReduceSvgFile.csproj,,,,,,,,Marco de destino actual: net8.0 Marco de destino recomendado: net10.0
